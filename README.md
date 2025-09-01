@@ -82,7 +82,6 @@ A: Yes—add an adapter under `/src/transport/` that matches the interface.
 ---
 
 ## Contact us
-- Website: https://www.bitbash.dev/ <br>
 - Discord: https://discord.gg/zX7frTbx  <br>
 - Telegram: https://t.me/devpilot1  <br>
 
