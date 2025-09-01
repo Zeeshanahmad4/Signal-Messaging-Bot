@@ -10,8 +10,7 @@ Feed a template + recipients file, and the bot handles pacing, personalization, 
 
 ---
 
-<img width="1536" height="500" alt="Image" src="https://github.com/user-attachments/assets/eabae392-673c-4eb9-9877-bebdeb7fa67e" />
-
+<img width="1536" height="500" alt="Image" src="https://github.com/user-attachments/assets/4f938d1c-7d78-4df2-84f9-6ea88185930e" />
 ---
 
 ## Table of content
@@ -61,8 +60,7 @@ Send personalized, individual Signal messages at scale with safe drip pacing and
 4) **Review**: Check `./logs/*.json` for outcomes and retries.
 
 ---
-<img width="1536" height="500" alt="Image" src="https://github.com/user-attachments/assets/74b4488c-4d9f-4660-b534-7646d392d103" />
-
+<img width="1536" height="500" alt="Image" src="https://github.com/user-attachments/assets/d7b6ab0f-c323-4685-adba-89854b008aa8" />
 
 
 ---
@@ -94,5 +92,4 @@ A: Yes—add an adapter under `/src/transport/` that matches the interface.
 Distributed under the MIT License. See LICENSE for more information. 
 
 ---
-<img width="1536" height="300" alt="Image" src="https://github.com/user-attachments/assets/33e43c69-dd47-4340-ac45-59bd6792660c" />
-
+<img width="1536" height="300" alt="Image" src="https://github.com/user-attachments/assets/e1defd1e-4395-4c9c-8b82-7ea0111db522" />
