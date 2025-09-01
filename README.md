@@ -11,7 +11,7 @@ Feed a template + recipients file, and the bot handles pacing, personalization, 
 ---
 
 <img width="1536" height="500" alt="Image" src="https://github.com/user-attachments/assets/4f938d1c-7d78-4df2-84f9-6ea88185930e" />
----
+
 
 ## Table of content
 - [Overview](#overview)
