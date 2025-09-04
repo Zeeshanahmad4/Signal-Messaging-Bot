@@ -47,6 +47,11 @@ Send personalized, individual Signal messages at scale with safe drip pacing and
 | Media attachments (Roadmap) | Send images/files | Extends transport interface |
 | Scheduler/Web UI (Roadmap) | Timed campaigns + dashboard | Optional service layer |
 
+---
+
+## Try Fee Now 
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/eed6d1a3-0612-4236-9392-c5ca58f8e0c5" />
+
 
 ---
 
