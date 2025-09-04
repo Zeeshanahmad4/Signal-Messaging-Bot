@@ -50,7 +50,7 @@ Send personalized, individual Signal messages at scale with safe drip pacing and
 ---
 
 ## Try Fee Now 
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/eed6d1a3-0612-4236-9392-c5ca58f8e0c5" />
+<img width="1536" height="500" alt="Image" src="https://github.com/user-attachments/assets/eed6d1a3-0612-4236-9392-c5ca58f8e0c5" />
 
 
 ---
