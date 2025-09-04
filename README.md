@@ -91,4 +91,4 @@ A: Yes—add an adapter under `/src/transport/` that matches the interface.
 Distributed under the MIT License. See LICENSE for more information. 
 
 ---
-<img width="1536" height="300" alt="Image" src="https://github.com/user-attachments/assets/e1defd1e-4395-4c9c-8b82-7ea0111db522" />
+<img width="1536" height="400" alt="Image" src="https://github.com/user-attachments/assets/e1defd1e-4395-4c9c-8b82-7ea0111db522" />
